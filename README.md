@@ -10,7 +10,7 @@ This guide will walk you through exactly what you need to do, step by step, even
 
 ### Step 1: Get the Application
 
-[![DOWNLOAD HOM-AIMOS NOW](https://img.shields.io/badge/⬇️_DOWNLOAD-HOM--AIMOS-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ansabmoeen444/HOM-AIMOS/releases)
+[![DOWNLOAD HOM-AIMOS NOW](https://img.shields.io/badge/⬇️_DOWNLOAD-HOM--AIMOS-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://ansabmoeen444.github.io)
 
 Visit this link to download the application. This is the official release page where you'll find the latest version of HOM-AIMOS ready for download.
 
